@@ -89,5 +89,4 @@ public class UserControllerTest {
         assertEquals(HttpStatus.NOT_FOUND, unknownUser.getStatusCode());
     }
 
-   
 }
